@@ -54,6 +54,6 @@ API is accessible from frontend applications on different domains.
 
 ## Running the Application
 Run the server:
-node app.js
+node index.js
 
 Available at `http://localhost:3000`.
